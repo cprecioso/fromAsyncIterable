@@ -1,6 +1,6 @@
 {
   "name": "@cprecioso/most-from-async-iterable",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Create a @most/core stream from an AsyncIterable",
   "keywords": [
     "most",
